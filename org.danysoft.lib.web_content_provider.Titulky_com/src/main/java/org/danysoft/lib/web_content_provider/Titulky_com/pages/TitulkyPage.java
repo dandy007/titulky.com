@@ -7,7 +7,5 @@ public class TitulkyPage extends WebPage {
   public TitulkyPage(String url) {
     super(TITULKY_URL + url);
   }
-
-  
   
 }
